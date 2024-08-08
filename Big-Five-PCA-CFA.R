@@ -1,7 +1,4 @@
 #Author:  Syeda Rija Zaineb
-#Date: October 29, 2021
-
-#Assignment 5: Principal Component Analysis (PCA) and Factor Analysis in R
 
 #Using Big Five Personality Test web-based personality assessment dataset
 
