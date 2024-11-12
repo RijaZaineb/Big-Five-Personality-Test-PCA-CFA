@@ -15,8 +15,9 @@ This project applies Principal Component Analysis (PCA) and Common Factor Analys
 
 •	CFA Comparison: Highlighted similarities in grouping but noted reduced loadings and cumulative variance due to CFA’s exclusion of unique/error variances.
 ### Results
-###### •	Principal Components: 5 components explained 46.1% variance in PCA, while CFA explained 40.1%.
-###### •	Component Interpretation:
+#### •	Principal Components: 
+  5 components explained 46.1% variance in PCA, while CFA explained 40.1%.
+#### •	Component Interpretation:
   o	Extraversion: High scores indicate outgoing nature
   
   o	Neuroticism: High scores suggest emotional instability
